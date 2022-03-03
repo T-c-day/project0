@@ -14,7 +14,7 @@
 User Functionality</br>
 1.As a user, I can login.</br>
 2.As a user, I can register for a customer account.</br>
-
+</br>
 Customer Functionality</br>
 1.As a customer, I can apply for a new bank account with a starting balance.</br>
 2.As a customer, I can view the balance of a specific account.</br>
