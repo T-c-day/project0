@@ -10,7 +10,7 @@
 5. All input is received using the java.util.Scanner class. </br>
 6. Log4j is implemented to log events to a file. </br>
 7. A minimum of one (1) JUnit test is written to test some functionality. </br>
-
+</br>
 User Functionality</br>
 1.As a user, I can login.</br>
 2.As a user, I can register for a customer account.</br>
