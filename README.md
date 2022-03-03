@@ -21,12 +21,12 @@ Customer Functionality</br>
 3.As a customer, I can make a withdrawal or deposit to a specific account.</br>
 4.As a customer, I can post a money transfer to another account.</br>
 5.As a customer, I can accept a money transfer from another account.</br>
-
+</br>
 Employee Functionality</br>
 1.As an employee, I can approve or reject an account.</br>
 2.As an employee, I can view a customer's bank accounts.</br>
 3.As an employee, I can view a log of all transactions.</br>
-
+</br>
 System Functionality</br>
 As the system, I reject invalid transactions. </br>
 Ex: * A withdrawal that would result in a negative balance. *
